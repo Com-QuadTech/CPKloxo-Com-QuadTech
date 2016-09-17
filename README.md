@@ -1,11 +1,11 @@
-# Kloxo
+# Kloxo from Com-QuadTech
 From Kloxo HostInaBox, a light and efficient webhosting platform, to Kloxo Enterprise, a truly distributed hosting platform.
 Kloxo is a fully scriptable, distributed and a 100% object oriented hosting platform.
 
 # Features
 
-* CentOS 5 Support
-* Integrates with billing software such as AWBS, WHMCS and HostBill
+* CentOS 5 / 6 / 7 Support
+* Integrates with billing software such as WHMCS 
 * Kloxo HostinABox: Feature Complete web hosting platform that uses 10MB RSS.
 * Kloxo Enterprise: distributed hosting platform.
 * View, Search and Manage your entire hosting, and every domain from a single page.
@@ -21,16 +21,17 @@ Kloxo is a fully scriptable, distributed and a 100% object oriented hosting plat
 
 # Contributing
 
-Please have a look at LxCenter's [Coding Standards](http://project.lxcenter.org/projects/kloxo/wiki/Coding_Standards) and [Issue Tracker](http://project.lxcenter.org).
+Please have a look at LxCenter's [Coding Standards](http://project.lxcenter.org/projects/kloxo/wiki/Coding_Standards) and [Issue Tracker](kloxo.projekt.com-quadtech.net).
 
 And don't forget our [forums](http://community.lxcenter.org)!
 
 # Licensing - AGPLv3
 
-    Kloxo, Web Hosting Controlpanel
+    Kloxo, Web Hosting Controlpanel 
 
     Copyright (C) 2000-2009	LxLabs
     Copyright (C) 2009-2014	LxCenter
+    Copyright (c) 2015-2016 Com-QuadTech
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as
