@@ -1,4 +1,4 @@
-# Kloxo from Com-QuadTech
+# CPKloxo from Com-QuadTech
 From Kloxo HostInaBox, a light and efficient webhosting platform, to Kloxo Enterprise, a truly distributed hosting platform.
 Kloxo is a fully scriptable, distributed and a 100% object oriented hosting platform.
 
