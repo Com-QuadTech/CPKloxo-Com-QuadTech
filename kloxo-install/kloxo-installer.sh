@@ -3,6 +3,7 @@
 #
 #	Copyright (C) 2000-2009	LxLabs
 #	Copyright (C) 2009-2011	LxCenter
+#       Copyright (c) 2015-2016 Com-QuadTech
 #
 #	This program is free software: you can redistribute it and/or modify
 #	it under the terms of the GNU Affero General Public License as
@@ -20,7 +21,7 @@
 #
 # LxCenter - Kloxo Installer
 #
-# Version: 1.0 (2011-08-02 - by mustafa.ramadhan@lxcenter.org)
+# Version: 1.0 (2016-09-17 - by vzcrsa12@googlemail.com)
 #
 
 if [ "$#" == 0 ] ; then
